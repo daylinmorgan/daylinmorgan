@@ -1,4 +1,4 @@
-Browsers are dead, long live the CLI!
+Browsers are dead, long live the CLI.
 
 ## projects
 ```sh
