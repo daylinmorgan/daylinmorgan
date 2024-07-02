@@ -6,5 +6,5 @@ Browsers are dead, long live the CLI.
 *no password needed, just hit enter*
 
 ---
-**logo**: `curl -L gh.dayl.in/logo/ascii`
+**logo**: `curl -L logo.dayl.in/ascii`
 
